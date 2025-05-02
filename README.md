@@ -18,10 +18,10 @@ _ Item 2
   - Subitem 2.1
   - Subitem 2.2
 
-  1. First Item
-  1. First-Second Item
-  1. Second Item
-  1. Third Item
+1. First Item
+1. First-Second Item
+1. Second Item
+1. Third Item
 
   [Link Text](https://www.google.com/)
 
@@ -37,5 +37,4 @@ _ Item 2
 
   I can write a sentence referencing `helloWorld()` like this.
 
-  > This is a blockquote.
-  > Multi-line
+  > This is a blockquote. Multi-line
